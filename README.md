@@ -1,5 +1,7 @@
 ### Hi there 👋
 https://mangrove-page-3f7.notion.site/e767a666ccdf4a24b696cc0afc973a42
+
+백준 echachca
 <!--
 **kido-a/kido-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
